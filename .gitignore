@@ -1,5 +1,6 @@
 .env
 profiles.yml
+profiles.yml.bkp
 target/
 dbt_packages/
 logs/
